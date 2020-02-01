@@ -679,6 +679,9 @@ h2.heading span,h3.heading span {
         margin: 0;
         font-size: 18px;
     }
+  .advantage_left img {
+      display:none;
+  }
 }
 
 @media screen and (max-width: 500px) {
