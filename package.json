@@ -7,6 +7,7 @@
   "description": "isaac profile",
   "main": "app.js",
   "scripts": {
+    "start":"node app.js",
     "watch": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
